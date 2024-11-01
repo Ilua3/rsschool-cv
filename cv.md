@@ -38,3 +38,8 @@ function getSum(a, b)
 ```
 ### Education:
 * **BSUIR**, Faculty of Computer Design, specialization: medical electronics
+### Experience:
+### Languages:
+* English
+* Russian
+* Belarusian 
